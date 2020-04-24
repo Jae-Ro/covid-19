@@ -3,3 +3,5 @@
 /COVID-19-TweetIDs
 /RNN-Twitter-Sentiment-Analysis
 /jsonl_filenames
+combined_cleaned_covid_mask_sample.csv
+covid_mask_twitter_predictions.csv
